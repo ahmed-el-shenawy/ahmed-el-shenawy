@@ -8,7 +8,6 @@
 </p>
 
 ---
-![Snake Animation](https://github.com/ahmed-el-shenawy/ahmed-el-shenawy/blob/output/snake-dark.svg)
 ## 🚀 About Me
 </div>
 
@@ -53,6 +52,7 @@ RAG systems, and multi-agent AI architectures**.
 
 ---
 
+![Snake Animation](https://github.com/ahmed-el-shenawy/ahmed-el-shenawy/blob/output/snake-dark.svg)
 ## 📊 GitHub Stats
 
 <p align="center">

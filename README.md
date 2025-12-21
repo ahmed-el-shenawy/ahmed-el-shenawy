@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed El-Shenawy</h1>
-<h3 align="center">AI Engineer | Generative AI & LLMs | RAG Systems | Chatbots | AI Agents | RESTful API Developer (FastAPI & Node.js)</h3>
+<h3 align="center">AI Engineer | Generative AI & LLMs | RAG Systems | Chatbots | AI Agents | RESTful API Developer (FastAPI & Nest.js)</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-el-shnnawy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
